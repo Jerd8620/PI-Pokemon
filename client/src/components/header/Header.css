@@ -1,0 +1,15 @@
+.container_header {
+    width: auto;
+    height: 105px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* Logotipo Pokemon */
+.header_logo{
+    width: 16rem;
+}
+/* Creación Pokebola */
+.header_create {
+    width: 5rem;
+}
